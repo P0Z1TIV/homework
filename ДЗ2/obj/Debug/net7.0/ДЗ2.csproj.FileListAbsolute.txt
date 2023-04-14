@@ -1,0 +1,15 @@
+C:\Users\kisly\Desktop\C#HW\ДЗ2\bin\Debug\net7.0\ДЗ2.exe
+C:\Users\kisly\Desktop\C#HW\ДЗ2\bin\Debug\net7.0\ДЗ2.deps.json
+C:\Users\kisly\Desktop\C#HW\ДЗ2\bin\Debug\net7.0\ДЗ2.runtimeconfig.json
+C:\Users\kisly\Desktop\C#HW\ДЗ2\bin\Debug\net7.0\ДЗ2.dll
+C:\Users\kisly\Desktop\C#HW\ДЗ2\bin\Debug\net7.0\ДЗ2.pdb
+C:\Users\kisly\Desktop\C#HW\ДЗ2\obj\Debug\net7.0\ДЗ2.csproj.AssemblyReference.cache
+C:\Users\kisly\Desktop\C#HW\ДЗ2\obj\Debug\net7.0\ДЗ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisly\Desktop\C#HW\ДЗ2\obj\Debug\net7.0\ДЗ2.AssemblyInfoInputs.cache
+C:\Users\kisly\Desktop\C#HW\ДЗ2\obj\Debug\net7.0\ДЗ2.AssemblyInfo.cs
+C:\Users\kisly\Desktop\C#HW\ДЗ2\obj\Debug\net7.0\ДЗ2.csproj.CoreCompileInputs.cache
+C:\Users\kisly\Desktop\C#HW\ДЗ2\obj\Debug\net7.0\ДЗ2.dll
+C:\Users\kisly\Desktop\C#HW\ДЗ2\obj\Debug\net7.0\refint\ДЗ2.dll
+C:\Users\kisly\Desktop\C#HW\ДЗ2\obj\Debug\net7.0\ДЗ2.pdb
+C:\Users\kisly\Desktop\C#HW\ДЗ2\obj\Debug\net7.0\ДЗ2.genruntimeconfig.cache
+C:\Users\kisly\Desktop\C#HW\ДЗ2\obj\Debug\net7.0\ref\ДЗ2.dll

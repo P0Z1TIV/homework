@@ -1,0 +1,15 @@
+C:\Users\kisly\Desktop\C#HW\ДЗ4\bin\Debug\net7.0\ДЗ4.exe
+C:\Users\kisly\Desktop\C#HW\ДЗ4\bin\Debug\net7.0\ДЗ4.deps.json
+C:\Users\kisly\Desktop\C#HW\ДЗ4\bin\Debug\net7.0\ДЗ4.runtimeconfig.json
+C:\Users\kisly\Desktop\C#HW\ДЗ4\bin\Debug\net7.0\ДЗ4.dll
+C:\Users\kisly\Desktop\C#HW\ДЗ4\bin\Debug\net7.0\ДЗ4.pdb
+C:\Users\kisly\Desktop\C#HW\ДЗ4\obj\Debug\net7.0\ДЗ4.csproj.AssemblyReference.cache
+C:\Users\kisly\Desktop\C#HW\ДЗ4\obj\Debug\net7.0\ДЗ4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisly\Desktop\C#HW\ДЗ4\obj\Debug\net7.0\ДЗ4.AssemblyInfoInputs.cache
+C:\Users\kisly\Desktop\C#HW\ДЗ4\obj\Debug\net7.0\ДЗ4.AssemblyInfo.cs
+C:\Users\kisly\Desktop\C#HW\ДЗ4\obj\Debug\net7.0\ДЗ4.csproj.CoreCompileInputs.cache
+C:\Users\kisly\Desktop\C#HW\ДЗ4\obj\Debug\net7.0\ДЗ4.dll
+C:\Users\kisly\Desktop\C#HW\ДЗ4\obj\Debug\net7.0\refint\ДЗ4.dll
+C:\Users\kisly\Desktop\C#HW\ДЗ4\obj\Debug\net7.0\ДЗ4.pdb
+C:\Users\kisly\Desktop\C#HW\ДЗ4\obj\Debug\net7.0\ДЗ4.genruntimeconfig.cache
+C:\Users\kisly\Desktop\C#HW\ДЗ4\obj\Debug\net7.0\ref\ДЗ4.dll

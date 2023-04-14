@@ -1,0 +1,15 @@
+C:\Users\kisly\Desktop\C#HW\ДЗ3\bin\Debug\net7.0\ДЗ3.exe
+C:\Users\kisly\Desktop\C#HW\ДЗ3\bin\Debug\net7.0\ДЗ3.deps.json
+C:\Users\kisly\Desktop\C#HW\ДЗ3\bin\Debug\net7.0\ДЗ3.runtimeconfig.json
+C:\Users\kisly\Desktop\C#HW\ДЗ3\bin\Debug\net7.0\ДЗ3.dll
+C:\Users\kisly\Desktop\C#HW\ДЗ3\bin\Debug\net7.0\ДЗ3.pdb
+C:\Users\kisly\Desktop\C#HW\ДЗ3\obj\Debug\net7.0\ДЗ3.csproj.AssemblyReference.cache
+C:\Users\kisly\Desktop\C#HW\ДЗ3\obj\Debug\net7.0\ДЗ3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisly\Desktop\C#HW\ДЗ3\obj\Debug\net7.0\ДЗ3.AssemblyInfoInputs.cache
+C:\Users\kisly\Desktop\C#HW\ДЗ3\obj\Debug\net7.0\ДЗ3.AssemblyInfo.cs
+C:\Users\kisly\Desktop\C#HW\ДЗ3\obj\Debug\net7.0\ДЗ3.csproj.CoreCompileInputs.cache
+C:\Users\kisly\Desktop\C#HW\ДЗ3\obj\Debug\net7.0\ДЗ3.dll
+C:\Users\kisly\Desktop\C#HW\ДЗ3\obj\Debug\net7.0\refint\ДЗ3.dll
+C:\Users\kisly\Desktop\C#HW\ДЗ3\obj\Debug\net7.0\ДЗ3.pdb
+C:\Users\kisly\Desktop\C#HW\ДЗ3\obj\Debug\net7.0\ДЗ3.genruntimeconfig.cache
+C:\Users\kisly\Desktop\C#HW\ДЗ3\obj\Debug\net7.0\ref\ДЗ3.dll
