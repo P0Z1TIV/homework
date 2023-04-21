@@ -1,0 +1,15 @@
+C:\Users\kisly\Desktop\ДЗ по 3 семинару\Задание 3\bin\Debug\net7.0\Задание 3.exe
+C:\Users\kisly\Desktop\ДЗ по 3 семинару\Задание 3\bin\Debug\net7.0\Задание 3.deps.json
+C:\Users\kisly\Desktop\ДЗ по 3 семинару\Задание 3\bin\Debug\net7.0\Задание 3.runtimeconfig.json
+C:\Users\kisly\Desktop\ДЗ по 3 семинару\Задание 3\bin\Debug\net7.0\Задание 3.dll
+C:\Users\kisly\Desktop\ДЗ по 3 семинару\Задание 3\bin\Debug\net7.0\Задание 3.pdb
+C:\Users\kisly\Desktop\ДЗ по 3 семинару\Задание 3\obj\Debug\net7.0\Задание 3.csproj.AssemblyReference.cache
+C:\Users\kisly\Desktop\ДЗ по 3 семинару\Задание 3\obj\Debug\net7.0\Задание 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisly\Desktop\ДЗ по 3 семинару\Задание 3\obj\Debug\net7.0\Задание 3.AssemblyInfoInputs.cache
+C:\Users\kisly\Desktop\ДЗ по 3 семинару\Задание 3\obj\Debug\net7.0\Задание 3.AssemblyInfo.cs
+C:\Users\kisly\Desktop\ДЗ по 3 семинару\Задание 3\obj\Debug\net7.0\Задание 3.csproj.CoreCompileInputs.cache
+C:\Users\kisly\Desktop\ДЗ по 3 семинару\Задание 3\obj\Debug\net7.0\Задание 3.dll
+C:\Users\kisly\Desktop\ДЗ по 3 семинару\Задание 3\obj\Debug\net7.0\refint\Задание 3.dll
+C:\Users\kisly\Desktop\ДЗ по 3 семинару\Задание 3\obj\Debug\net7.0\Задание 3.pdb
+C:\Users\kisly\Desktop\ДЗ по 3 семинару\Задание 3\obj\Debug\net7.0\Задание 3.genruntimeconfig.cache
+C:\Users\kisly\Desktop\ДЗ по 3 семинару\Задание 3\obj\Debug\net7.0\ref\Задание 3.dll
